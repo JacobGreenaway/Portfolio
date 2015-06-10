@@ -24,7 +24,7 @@ $(document).ready(function () {
 			    lastScrollTop = scrollTop
 
 			    // min-offset, min-scroll-top
-			    if (offset > 10 && scrollTop > 200 ) {
+			    if (offset > 10 && scrollTop > 100 ) {
 				    if (!isHidden) {
 				        $self.addClass('headroom-hidden')
 				          	isHidden = true

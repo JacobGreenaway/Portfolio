@@ -48,6 +48,9 @@ p, h2, h3 {
 
 .navbar-inverse {
 	background-color: #131B23;
+	display: inline-block;
+  	float: none;
+  	vertical-align: top;
 }
 
 .navbar-inverse .navbar-nav li a{
